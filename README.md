@@ -27,6 +27,8 @@
 
 🌱 Passionate about turning raw data into **clean, reliable, analytics-ready datasets**
 
+🏅 **Databricks Certified Data Engineer (Associate & Professional)**
+
 ---
 
 # 🛠️ Tech Stack
@@ -50,20 +52,29 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-## 📚 Concepts I work with
+## 📚 Core Competencies
 
-`ETL / ELT` · `Medallion Architecture (Bronze / Silver / Gold)` · `Data Modelling` · `Data Quality Checks` · `Spark Performance Tuning` · `Incremental Loads`
-
+- **Data Pipeline Engineering:** Batch ETL/ELT design, incremental loading and transformation logic
+- **Lakehouse Architecture:** Medallion (Bronze, Silver, Gold) design on Delta Lake
+- **Spark Optimization:** Partitioning, caching and query performance tuning
+- **Data Modelling:** Dimensional modelling for analytics-ready datasets
+- **Data Quality & Reliability:** Validation checks, schema enforcement and error handling
+- **Workflow Orchestration:** Databricks Workflows and job scheduling
 ---
 
 
 
-# 🏅 Learning & Certifications
+# 🏅 Certifications
 
-- ✅ **Databricks Training** (TCS, Feb – Apr 2026)
-- 🎯 **In progress:** Databricks Certified Data Engineer Associate
-- 📖 Self-study: Delta Lake internals, Spark optimization, SQL window functions
+- ✅ **Databricks Certified Data Engineer Associate**
+- ✅ **Databricks Certified Data Engineer Professional**
 
+<p>
+  <img src="https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-Data%20Engineer%20Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+**Training:** Databricks Data Engineering program at TCS (Feb – Apr 2026)
 
 ---
 
@@ -71,13 +82,13 @@
 
 # 🎯 Goals for 2026–27
 
+🚀 Deepen expertise in **Spark optimization & Delta Lake internals**
 
-📊 Go deeper into **Spark optimization & Delta Lake**
+☁️ Build hands-on experience with a cloud platform (**Azure or AWS**)
 
-☁️ Add a cloud platform (**Azure or AWS**) to my skill set
+🔄 Explore **dbt, Airflow and the modern data stack**
 
-🧠 Build and publish **end-to-end data engineering projects** on GitHub
-
+🧠 Publish **end-to-end data engineering projects** on GitHub
 ---
 
 # 🤝 Let's Connect
