@@ -118,7 +118,7 @@
 
 I'm happy to chat about **data engineering, Databricks, and breaking into the field**.
 
-📩 Reach me on [LinkedIn](https://www.linkedin.com/in/your-linkedin/) or [email](mailto:your-email@example.com)
+📩 Reach me on [LinkedIn](www.linkedin.com/in/sravanthi-kunamneni-43b614271/) or [email](sravanthikunamneni5@gmail.com)
 
 ---
 
