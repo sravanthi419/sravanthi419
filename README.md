@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Data Engineer | Databricks | PySpark | SQL | Banking Domain</h3>
 
 <p align="center">
-  <a href="sravanthikunamneni5.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="sravanthikunamneni5@gmail.com"><img src="https://img.shields.io/badge/Email-sravanthikunamneni5@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sravanthi-kunamneni-43b614271/"><img src="https://img.shields.io/badge/LinkedIn-Connect-red?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Company-TCS-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-India-red?style=for-the-badge" />
@@ -67,17 +67,7 @@
 
 ---
 
-# 🔥 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
 
 # 🎯 Goals for 2026–27
 
@@ -94,12 +84,12 @@
 
 I'm happy to chat about **data engineering, Databricks, and breaking into the field**.
 
-📩 Reach me on [LinkedIn](www.linkedin.com/in/sravanthi-kunamneni-43b614271/) or [email](sravanthikunamneni5@gmail.com)
+📩 Reach me on [LinkedIn](https://www.linkedin.com/in/sravanthi-kunamneni-43b614271/) or [email](sravanthikunamneni5@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=sravanthi419&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 <p align="center"><b>"Turning raw data into reliable insights."</b></p>
