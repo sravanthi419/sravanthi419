@@ -7,10 +7,10 @@
 <h3 align="center">🚀 Data Engineer | Databricks | PySpark | SQL | Banking Domain</h3>
 
 <p align="center">
-  <a href="mailto:sravanthikunamneni5.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sravanthi-kunamneni-43b614271/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Company-TCS-0a3d91?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge" />
+  <a href="sravanthikunamneni5.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sravanthi-kunamneni-43b614271/"><img src="https://img.shields.io/badge/LinkedIn-Connect-red?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Company-TCS-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-India-red?style=for-the-badge" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 💼 Data Engineer at **Tata Consultancy Services (TCS)**, working on a large **US banking client** project
 
-🎓 **B.E./B.Tech in Computer Science & Engineering** (2025 graduate)
+🎓 **B.Tech in Computer Science & Engineering** (2025 graduate)
 
 ⚡ Built my foundation through structured **Databricks training** at TCS, then moved into live project delivery
 
@@ -39,6 +39,7 @@
 
 ## 💻 Languages & Databases
 
+![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -48,7 +49,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-> Add only what you genuinely use. Add Azure / AWS / Airflow / dbt badges once you have worked with them.
 
 ## 📚 Concepts I work with
 
@@ -56,29 +56,7 @@
 
 ---
 
-# 🚀 Featured Projects
 
-> Client work stays confidential, so these are personal projects built on public data.
-
-## 🔹 [Project 1 name](https://github.com/your-username/project-1)
-
-✔ End-to-end pipeline using **Medallion Architecture** on Databricks
-
-✔ Ingested raw data into **Bronze**, cleaned into **Silver**, aggregated into **Gold** Delta tables
-
-✔ Added **data quality checks** and documented the architecture
-
-## 🔹 [Project 2 name](https://github.com/your-username/project-2)
-
-✔ One-line description of the problem it solves
-
-✔ Tech used: **PySpark, Delta Lake, SQL**
-
-## 🔹 [Project 3 name](https://github.com/your-username/project-3)
-
-✔ One-line description of the problem it solves
-
----
 
 # 🏅 Learning & Certifications
 
@@ -86,7 +64,6 @@
 - 🎯 **In progress:** Databricks Certified Data Engineer Associate
 - 📖 Self-study: Delta Lake internals, Spark optimization, SQL window functions
 
-*(Move items into a "Certifications" list as soon as you earn them.)*
 
 ---
 
@@ -104,7 +81,6 @@
 
 # 🎯 Goals for 2026–27
 
-🚀 Earn the **Databricks Data Engineer Associate** certification
 
 📊 Go deeper into **Spark optimization & Delta Lake**
 
