@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:sravanthikunamneni5.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/sravanthi-kunamneni-43b614271/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Company-TCS-0a3d91?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge" />
 </p>
